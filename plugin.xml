@@ -5,7 +5,7 @@
     <keywords>cordova,xfyun,voice</keywords>
     <author>Ou Jun</author>
     <license>MIT License</license>
-    <repo>https://github.com/MicahStudio/cordova-plugin-xfyunvoice.git</repo>
+    <repo>https://github.com/HouseCool/cordova.HouseCoolPlugins.xfyunvoice.git</repo>
 
     <preference name="APPID" />
     <js-module name="voice" src="www/voice.js">

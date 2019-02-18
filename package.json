@@ -1,11 +1,19 @@
 {
-  "name": "cordova-plugin-xfyunvoice",
+  "name": "cordova.housecoolplugins.xfyunvoice",
   "version": "1.0.0",
-  "description": "",
+  "description": "> This plugin is intended to show a picture from an URL into a Photo Viewer with zoom features.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://HouseCool@github.com/HouseCool/cordova.HouseCoolPlugins.xfyunvoice.git"
+  },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HouseCool/cordova.HouseCoolPlugins.xfyunvoice/issues"
+  },
+  "homepage": "https://github.com/HouseCool/cordova.HouseCoolPlugins.xfyunvoice#readme"
 }
