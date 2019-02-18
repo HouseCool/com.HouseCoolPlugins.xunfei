@@ -4,6 +4,7 @@
 ## How to Install
 
 Cordova:
+>cordova plugin add https://github.com/HouseCool/cordova.HouseCoolPlugins.xfyunvoice.git
 
 
 ### Android
