@@ -4,6 +4,7 @@
 ## How to Install
 
 Cordova:
+>cordova plugin add 
 
 
 ### Android
